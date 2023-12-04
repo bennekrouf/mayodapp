@@ -1451,9 +1451,9 @@
     fastq "^1.6.0"
 
 "@react-native-async-storage/async-storage@^1.19.3":
-  version "1.19.3"
-  resolved "https://registry.npmjs.org/@react-native-async-storage/async-storage/-/async-storage-1.19.3.tgz#ad5fe3ed0a82d4624aa4500321c1e09c02daeb46"
-  integrity sha512-CwGfoHCWdPOTPS+2fW6YRE1fFBpT9++ahLEroX5hkgwyoQ+TkmjOaUxixdEIoVua9Pz5EF2pGOIJzqOTMWfBlA==
+  version "1.21.0"
+  resolved "https://registry.npmjs.org/@react-native-async-storage/async-storage/-/async-storage-1.21.0.tgz#d7e370028e228ab84637016ceeb495878b7a44c8"
+  integrity sha512-JL0w36KuFHFCvnbOXRekqVAUplmOyT/OuCQkogo6X98MtpSaJOKEAeZnYO8JB0U/RIEixZaGI5px73YbRm/oag==
   dependencies:
     merge-options "^3.0.4"
 
@@ -1663,29 +1663,29 @@
   integrity sha512-+zDZ20NUnSWghj7Ku5aFphMzuM9JulqCW+aPXT6IfIXFbb8tzYTTOSeRFOtuekJ99ibW2fUCSsjuKNlwDIbHFg==
 
 "@react-native-firebase/app@^18.5.0":
-  version "18.6.0"
-  resolved "https://registry.npmjs.org/@react-native-firebase/app/-/app-18.6.0.tgz#939c92fda17c2641079314f30d52797db43a673e"
-  integrity sha512-pJwq2D0VBk8QvmIw6qZ5P3Y5Uaq4LL9NarAcTdEIA342VlhmTB1rovcYHE/F/hohdGBwFzi5qXAQnZmTxv27sg==
+  version "18.7.1"
+  resolved "https://registry.npmjs.org/@react-native-firebase/app/-/app-18.7.1.tgz#89fea18713a0fec9e2a0190a4be6b6c54208a73e"
+  integrity sha512-OcWfOUl47pIXcmD5lDn+b1hJktiU7DawXTqjxzDLfWpPzSQUys4OH9kV2ZEnFNKMuvgPELNtzq/H9+Bylc4PGA==
   dependencies:
     opencollective-postinstall "^2.0.3"
     superstruct "^0.6.2"
 
 "@react-native-firebase/auth@^18.5.0":
-  version "18.6.0"
-  resolved "https://registry.npmjs.org/@react-native-firebase/auth/-/auth-18.6.0.tgz#0940644fceec3454e2351d33205e1074fa93bd69"
-  integrity sha512-Z0UL1nLEy/98Lb4HTeemTbvezEDO9boVEy0bPijH/SYw3gOUoKzHCBVgTIhQb8X6BHpcSYsSHSD+pwp4bfcbzw==
+  version "18.7.1"
+  resolved "https://registry.npmjs.org/@react-native-firebase/auth/-/auth-18.7.1.tgz#899da48311170369a815f9ee970cd901e826d5ff"
+  integrity sha512-1Bs8JFq6ygtRX8St9ucyS61YQq+T0t2DMXYKIXH+ueX3giVTq5+cE4U/DfDNpAWzWb7fl4yVWROiEItkw4CGFA==
   dependencies:
     plist "^3.1.0"
 
 "@react-native-firebase/firestore@^18.5.0":
-  version "18.6.0"
-  resolved "https://registry.npmjs.org/@react-native-firebase/firestore/-/firestore-18.6.0.tgz#92fb18db46839eef7bcf8bbd3a22f750009eb886"
-  integrity sha512-F0Exe8KajSqBVepYmcrcNul96CfkPTsIxa7ABXRyO+xcs2K/wiBqa8xNotDMZKdZMrG+WwA1fAogPkENd6iM8Q==
+  version "18.7.1"
+  resolved "https://registry.npmjs.org/@react-native-firebase/firestore/-/firestore-18.7.1.tgz#be6eabaa909ccd0e75ab95ad2508a9450eb802c0"
+  integrity sha512-PAhB31U9L6Cf0VpVM/OwAYa9l9X7/CFASOh/bSyR5tTNjuXa13I37xGiIbBwVe7zplibLNRB6AvcejMBHdD0ew==
 
 "@react-native-google-signin/google-signin@^10.0.1":
-  version "10.1.0"
-  resolved "https://registry.npmjs.org/@react-native-google-signin/google-signin/-/google-signin-10.1.0.tgz#3d23dcd574e5dcb91c1c1acecf565a067afd6281"
-  integrity sha512-9hhIlnNMfB6NO2738M437egA1p6inKdXXazh0qf6HJeBuLBTePSecePCOkVPczivM1mglquYXWCHJlx4D3Z7xw==
+  version "10.1.1"
+  resolved "https://registry.npmjs.org/@react-native-google-signin/google-signin/-/google-signin-10.1.1.tgz#1306aac8c32cb5deb994a1bfb05bed8172defed1"
+  integrity sha512-o6VufmUpdP174WY7r+ojVccyVHrTMjZEzCBJVa52r/wGJBzbxe8eD9MXdAYClkS2f4AGOdH6epNkySow89HRrA==
 
 "@react-native/assets@1.0.0":
   version "1.0.0"
@@ -1919,9 +1919,9 @@
   integrity sha512-J8xLz7q2OFulZ2cyGTLE1TbbZcjpno7FaN6zdJNrgAdrJ+DZzh/uFR6YrTb4C+nXakvud8Q4+rbhoIWlYQbUFQ==
 
 "@types/node@^20.6.2":
-  version "20.8.9"
-  resolved "https://registry.npmjs.org/@types/node/-/node-20.8.9.tgz#646390b4fab269abce59c308fc286dcd818a2b08"
-  integrity sha512-UzykFsT3FhHb1h7yD4CA4YhBHq545JC0YnEz41xkipN88eKQtL6rSgocL5tbAP6Ola9Izm/Aw4Ora8He4x0BHg==
+  version "20.10.3"
+  resolved "https://registry.npmjs.org/@types/node/-/node-20.10.3.tgz#4900adcc7fc189d5af5bb41da8f543cea6962030"
+  integrity sha512-XJavIpZqiXID5Yxnxv3RUDKTN5b81ddNC3ecsA0SoFXz/QU8OGBwZGMomiq0zw+uuqbL/krztv/DINAQ/EV4gg==
   dependencies:
     undici-types "~5.26.4"
 
@@ -1960,10 +1960,10 @@
     "@types/scheduler" "*"
     csstype "^3.0.2"
 
-"@types/react@^18.2.22":
-  version "18.2.33"
-  resolved "https://registry.npmjs.org/@types/react/-/react-18.2.33.tgz#055356243dc4350a9ee6c6a2c07c5cae12e38877"
-  integrity sha512-v+I7S+hu3PIBoVkKGpSYYpiBT1ijqEzWpzQD62/jm4K74hPpSP7FF9BnKG6+fg2+62weJYkkBWDJlZt5JO/9hg==
+"@types/react@^18.2.27":
+  version "18.2.41"
+  resolved "https://registry.npmjs.org/@types/react/-/react-18.2.41.tgz#9eea044246bdb10510df89ef7f8422a8b6ad8fb9"
+  integrity sha512-CwOGr/PiLiNBxEBqpJ7fO3kocP/2SSuC9fpH5K7tusrg4xPSRT/193rzolYwQnTN02We/ATXKnb6GqA5w4fRxw==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -5238,6 +5238,48 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
+mayo-firebase-auth@^1.3.0:
+  version "1.3.0"
+  resolved "https://registry.npmjs.org/mayo-firebase-auth/-/mayo-firebase-auth-1.3.0.tgz#ccd82f3621e6f8d740ad695d19ffc91eb6b02411"
+  integrity sha512-j3Xw7oYQq7687Lg+5xM6rsFW5MyoWAQ7UfJVOh2oyH8zEregQNHeQOODh8MLgaNA5ua5ko9NaMZ3nyTkgrGNbw==
+  dependencies:
+    "@react-native-async-storage/async-storage" "^1.19.3"
+    "@react-native-firebase/auth" "^18.5.0"
+    "@react-native-google-signin/google-signin" "^10.0.1"
+    "@react-navigation/native" "^6.1.7"
+    "@react-navigation/stack" "^6.3.17"
+    "@types/node" "^20.6.2"
+    "@types/react" "^18.2.27"
+    events "^3.3.0"
+    mayo-firebase-config "^1.2.21"
+    mayo-logger "^1.0.8"
+
+mayo-firebase-config@^1.2.20, mayo-firebase-config@^1.2.21:
+  version "1.2.21"
+  resolved "https://registry.npmjs.org/mayo-firebase-config/-/mayo-firebase-config-1.2.21.tgz#1fb68676d7c488a722b0fd04e5690f18f5f3cbe2"
+  integrity sha512-sQTYUGG0Azk8TlScw+fqfqz/kj3lEIotSLjDa98g9ROLeD6kBvAkE1acpU/wAypj7GReC5jKfBJgSvO6pGm3HA==
+  dependencies:
+    mayo-logger "^1.0.8"
+
+mayo-firestore-write@^1.2.6:
+  version "1.2.6"
+  resolved "https://registry.npmjs.org/mayo-firestore-write/-/mayo-firestore-write-1.2.6.tgz#31de0f3f45138a480020bdc54368e7afa31c070c"
+  integrity sha512-OKa3e4PiHpp0cWrN68B0/kjYqdo4ossWgLU8JB44R/bATCC2OiLQ3AQgk2o/R0Dvke3zGxWyLRkElBv5S8aoFg==
+  dependencies:
+    "@react-native-async-storage/async-storage" "^1.19.3"
+    "@react-native-community/async-storage" "^1.12.1"
+    "@react-native-firebase/app" "^18.5.0"
+    "@react-native-firebase/auth" "^18.5.0"
+    "@react-native-firebase/firestore" "^18.5.0"
+    mayo-firebase-config "^1.2.20"
+    mayo-logger "^1.0.8"
+    react-native-device-info "^10.11.0"
+
+mayo-logger@^1.0.8, mayo-logger@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.npmjs.org/mayo-logger/-/mayo-logger-1.1.0.tgz#ee1236a4aa791d3bece7dd1315c28458e6868884"
+  integrity sha512-Lfnjppm5kD+7uv0OWHwDOUYOB19p2pK0AqLXihZc2UH5lPi3O3xN+dFGnHUoFHfdWdUqsVgYvFoUJQ5OAOua1Q==
+
 memoize-one@^5.0.0:
   version "5.2.1"
   resolved "https://registry.yarnpkg.com/memoize-one/-/memoize-one-5.2.1.tgz#8337aa3c4335581839ec01c3d594090cebe8f00e"
@@ -5743,9 +5785,9 @@ ms@2.1.3, ms@^2.0.0:
   integrity sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==
 
 nanoid@^3.1.23:
-  version "3.3.6"
-  resolved "https://registry.npmjs.org/nanoid/-/nanoid-3.3.6.tgz#443380c856d6e9f9824267d960b4236ad583ea4c"
-  integrity sha512-BGcqMMJuToF7i1rt+2PWSNVnWIkGCU78jBG3RxO/bZlnZPK2Cmi2QaffxGO/2RvWi9sL+FAiRiXMgsyxQ1DIDA==
+  version "3.3.7"
+  resolved "https://registry.npmjs.org/nanoid/-/nanoid-3.3.7.tgz#d0c301a691bc8d54efa0a2226ccf3fe2fd656bd8"
+  integrity sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==
 
 nanomatch@^1.2.9:
   version "1.2.13"
@@ -6322,9 +6364,9 @@ react-native-codegen@^0.71.5:
     nullthrows "^1.1.1"
 
 react-native-device-info@^10.11.0:
-  version "10.11.0"
-  resolved "https://registry.npmjs.org/react-native-device-info/-/react-native-device-info-10.11.0.tgz#2c9f378f1c3c5eb9aafa803d015b84325991a9aa"
-  integrity sha512-qRzhuYOm5ZXQi5dhfJFjDq157oipxcEW/fo0QyMm5+TI6V6/+P/tju+Hif6z0rpLCf7MV7iDVRv2Kqha4D/yvQ==
+  version "10.12.0"
+  resolved "https://registry.npmjs.org/react-native-device-info/-/react-native-device-info-10.12.0.tgz#be4e71cbcc9a05e8643b1a419a4450d4cef9bbcc"
+  integrity sha512-gnBkjyZNEqRd+5BNrdzuvmlraHTCH/to2x0Gp9rtDt0O9xWWW1MTYohUVWX9A0Ad2HVYcGanDCIvjWp4ngMZFg==
 
 react-native-get-random-values@^1.8.0:
   version "1.8.0"
@@ -6622,53 +6664,6 @@ rimraf@~2.6.2:
   integrity sha512-mwqeW5XsA2qAejG46gYdENaxXjx9onRNCfn7L0duuP4hCuTIi/QO7PDK07KJfp1d+izWPrzEJDcSqBa0OZQriA==
   dependencies:
     glob "^7.1.3"
-
-rn-auth-firebase@^1.0.49:
-  version "1.0.49"
-  resolved "https://registry.npmjs.org/rn-auth-firebase/-/rn-auth-firebase-1.0.49.tgz#b6d6be859900b017b459cc0d2148101e794c9300"
-  integrity sha512-bpNORKzVDU7YG3KRSnpQq3xxuYtvojbjV7y2J7yGLERxAEaa5u9j3jWVCUWdb9LtmeCi/oYPG9zP9LliD2mJKg==
-  dependencies:
-    "@react-native-async-storage/async-storage" "^1.19.3"
-    "@react-native-firebase/auth" "^18.5.0"
-    "@react-native-google-signin/google-signin" "^10.0.1"
-    "@react-navigation/native" "^6.1.7"
-    "@react-navigation/stack" "^6.3.17"
-    "@types/node" "^20.6.2"
-    "@types/react" "^18.2.22"
-    events "^3.3.0"
-    rn-firebase-config "^1.0.4"
-    rn-logging "^1.0.5"
-
-rn-firebase-config@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.npmjs.org/rn-firebase-config/-/rn-firebase-config-1.0.4.tgz#09fcd475c6499bc70588a0ccdecaadc82f8653cd"
-  integrity sha512-DSdf+NgNciiEP+SR21eQVMhl5EZnJkrdb0lFDQvfRaKCVzQX5cVIqqmkZzIdCohyh2jet8+Ajr2sSKsyy3e5dg==
-  dependencies:
-    rn-logging "^1.0.6"
-
-rn-logger@^0.0.1-0:
-  version "0.0.1-0"
-  resolved "https://registry.npmjs.org/rn-logger/-/rn-logger-0.0.1-0.tgz#8e646fae1ba036234afdc01f341fd2623e37d121"
-  integrity sha512-pgR4ePzGLa1BNpbsORLa+/KnDzm4W2dE5D09fS2df/+QhaELVTmWmWuw9P11CDFoNg+XOIHvcErWW2u6s611uQ==
-
-rn-logging@^1.0.5, rn-logging@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.npmjs.org/rn-logging/-/rn-logging-1.0.6.tgz#92c6f250ac05581e3243d2f40b67a3a3560e5854"
-  integrity sha512-Zx4Nv7VO/XM08peAhzCR1A9uh0BbXr5LLiTcFul+DwDPLy3WfwWWluiFtheR2uRj7Qpbb/tq6MaxV1be5aA3tQ==
-
-rn-write-firestore@^1.1.5:
-  version "1.1.5"
-  resolved "https://registry.npmjs.org/rn-write-firestore/-/rn-write-firestore-1.1.5.tgz#c6456f0e112aa32779b5a2bd7e4ffdcfca3ea82e"
-  integrity sha512-lAw32MJM6r3icrBXhiFzmB5OE8OzG/KL4yV9WrfQjTaffYRTIUNSiBLUqNm1RXH/ifo9k0+LTOmNQQrwQUxZRQ==
-  dependencies:
-    "@react-native-async-storage/async-storage" "^1.19.3"
-    "@react-native-community/async-storage" "^1.12.1"
-    "@react-native-firebase/app" "^18.5.0"
-    "@react-native-firebase/auth" "^18.5.0"
-    "@react-native-firebase/firestore" "^18.5.0"
-    react-native-device-info "^10.11.0"
-    rn-firebase-config "^1.0.4"
-    rn-logging "^1.0.6"
 
 rpc-websockets@^7.5.1:
   version "7.5.1"
@@ -7447,9 +7442,9 @@ urix@^0.1.0:
   integrity sha512-Am1ousAhSLBeB9cG/7k7r2R0zj50uDRlZHPGbazid5s9rlF1F/QKYObEKSIunSjIOkJZqwRRLpvewjEkM7pSqg==
 
 use-latest-callback@^0.1.7:
-  version "0.1.7"
-  resolved "https://registry.npmjs.org/use-latest-callback/-/use-latest-callback-0.1.7.tgz#f189fa4e58ee18c7a2d9de53f92210e118d1b14f"
-  integrity sha512-Hlrl0lskgZZpo2vIpZ4rA7qA/rAGn2PcDvDH1M47AogqMPB0qlGEdsa66AVkIUiEEDpfxA9/N6hY6MqtaNoqWA==
+  version "0.1.9"
+  resolved "https://registry.npmjs.org/use-latest-callback/-/use-latest-callback-0.1.9.tgz#10191dc54257e65a8e52322127643a8940271e2a"
+  integrity sha512-CL/29uS74AwreI/f2oz2hLTW7ZqVeV5+gxFeGudzQrgkCytrHw33G4KbnQOrRlAEzzAFXi7dDLMC9zhWcVpzmw==
 
 use-sync-external-store@^1.0.0:
   version "1.2.0"
