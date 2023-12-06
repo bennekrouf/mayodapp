@@ -9,7 +9,7 @@ configurations.all {
 
 buildscript {
     ext {
-        kotlin_version = '1.9.10'
+        kotlin_version = '1.9.21'
         buildToolsVersion = "33.0.0"
         minSdkVersion = 21
         compileSdkVersion = 33
