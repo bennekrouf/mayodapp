@@ -1782,11 +1782,11 @@
     "@sinonjs/commons" "^2.0.0"
 
 "@solana-mobile/mobile-wallet-adapter-protocol-web3js@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@solana-mobile/mobile-wallet-adapter-protocol-web3js/-/mobile-wallet-adapter-protocol-web3js-2.0.0.tgz#5433705c174f59a177280f85396df051711be09d"
-  integrity sha512-cMADp/UIAN42QJVCM1oyj1wFM/9DTZNIa5z5eHXUXBksw/bNv2fWkiO+4ZUoQj1P4UoMoZJUBx9+qMVl18sPOA==
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@solana-mobile/mobile-wallet-adapter-protocol-web3js/-/mobile-wallet-adapter-protocol-web3js-2.0.2.tgz#ddbeee32004b0712cc5a396d9f79ec9a568efbeb"
+  integrity sha512-z1KKJb5v4thNvpncQlohfDpWLCmelEMRtJpmLjocSIUCuy88yLJZ0+LXvFMWP+cdCoakEctI2vH8XAUifxPFBg==
   dependencies:
-    "@solana-mobile/mobile-wallet-adapter-protocol" "^2.0.0"
+    "@solana-mobile/mobile-wallet-adapter-protocol" "^2.0.1"
     bs58 "^5.0.0"
     js-base64 "^3.7.2"
 
@@ -1794,6 +1794,11 @@
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@solana-mobile/mobile-wallet-adapter-protocol/-/mobile-wallet-adapter-protocol-2.0.0.tgz#75a3e8163544f659803260cb1dd7aede6da96b36"
   integrity sha512-mLK9B/AQgOxzbdRoOMH3G5wB5akWgGSBoVqIZ/6iDWY37uu/CuyX4lTwRyoRlOb8Cxs/tDwiovIGobkti2qF/w==
+
+"@solana-mobile/mobile-wallet-adapter-protocol@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@solana-mobile/mobile-wallet-adapter-protocol/-/mobile-wallet-adapter-protocol-2.0.1.tgz#8052d3ad1f62c750862c4c624880890f7d045bd5"
+  integrity sha512-UddhYILR886o7q/ZcEBu+CCix9Ns1hNIidTQKkecbz4FeJoO5rARhRuPwFbYoaBlCKvjmg0CkWlVwW3bVu+qJQ==
 
 "@solana/buffer-layout@^4.0.0":
   version "4.0.1"
