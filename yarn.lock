@@ -5255,11 +5255,12 @@ mayo-firebase-auth@^1.3.0:
     mayo-logger "^1.0.8"
 
 mayo-firebase-config@^1.2.20, mayo-firebase-config@^1.2.21:
-  version "1.2.21"
-  resolved "https://registry.npmjs.org/mayo-firebase-config/-/mayo-firebase-config-1.2.21.tgz#1fb68676d7c488a722b0fd04e5690f18f5f3cbe2"
-  integrity sha512-sQTYUGG0Azk8TlScw+fqfqz/kj3lEIotSLjDa98g9ROLeD6kBvAkE1acpU/wAypj7GReC5jKfBJgSvO6pGm3HA==
+  version "1.2.23"
+  resolved "https://registry.yarnpkg.com/mayo-firebase-config/-/mayo-firebase-config-1.2.23.tgz#1d952f43cdf1f269254442bf2f52221068a21d1f"
+  integrity sha512-/0n7AISDMRC3G/BAY8jZ//XftkmdGhAa1uvHlJaVwotcuortehx99pXL2l7DndsJO6F58Morxkj3E8iHGVP9Uw==
   dependencies:
     mayo-logger "^1.0.8"
+    react-native-device-info "^10.12.0"
 
 mayo-firestore-write@^1.2.6:
   version "1.2.6"
@@ -5275,7 +5276,14 @@ mayo-firestore-write@^1.2.6:
     mayo-logger "^1.0.8"
     react-native-device-info "^10.11.0"
 
-mayo-logger@^1.0.8, mayo-logger@^1.1.0:
+mayo-logger@^1.0.8:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/mayo-logger/-/mayo-logger-1.2.0.tgz#bb43867725ede6bfb608ea75791532601299a119"
+  integrity sha512-ENdvl1ZYZ4InjZgB1CPnwZl9j7yz62nhQrvYfz9KaWZOqxoAdji9zmDx92eAvjxVZjCkk511HSfyRz+0M5r1og==
+  dependencies:
+    typescript "^5.3.2"
+
+mayo-logger@^1.1.0:
   version "1.1.0"
   resolved "https://registry.npmjs.org/mayo-logger/-/mayo-logger-1.1.0.tgz#ee1236a4aa791d3bece7dd1315c28458e6868884"
   integrity sha512-Lfnjppm5kD+7uv0OWHwDOUYOB19p2pK0AqLXihZc2UH5lPi3O3xN+dFGnHUoFHfdWdUqsVgYvFoUJQ5OAOua1Q==
@@ -6363,9 +6371,9 @@ react-native-codegen@^0.71.5:
     jscodeshift "^0.13.1"
     nullthrows "^1.1.1"
 
-react-native-device-info@^10.11.0:
+react-native-device-info@^10.11.0, react-native-device-info@^10.12.0:
   version "10.12.0"
-  resolved "https://registry.npmjs.org/react-native-device-info/-/react-native-device-info-10.12.0.tgz#be4e71cbcc9a05e8643b1a419a4450d4cef9bbcc"
+  resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-10.12.0.tgz#be4e71cbcc9a05e8643b1a419a4450d4cef9bbcc"
   integrity sha512-gnBkjyZNEqRd+5BNrdzuvmlraHTCH/to2x0Gp9rtDt0O9xWWW1MTYohUVWX9A0Ad2HVYcGanDCIvjWp4ngMZFg==
 
 react-native-get-random-values@^1.8.0:
@@ -7346,6 +7354,11 @@ typescript@^4.9.4:
   version "4.9.5"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.9.5.tgz#095979f9bcc0d09da324d58d03ce8f8374cbe65a"
   integrity sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g==
+
+typescript@^5.3.2:
+  version "5.3.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.3.2.tgz#00d1c7c1c46928c5845c1ee8d0cc2791031d4c43"
+  integrity sha512-6l+RyNy7oAHDfxC4FzSJcz9vnjTKxrLpDG5M2Vu4SHRVNg6xzqZp6LYSR9zjqQTu8DU/f5xwxUdADOkbrIX2gQ==
 
 uglify-es@^3.1.9:
   version "3.3.9"
