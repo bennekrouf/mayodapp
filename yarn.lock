@@ -5812,17 +5812,12 @@ mayo-firestore-write@^1.2.6:
     mayo-logger "^1.0.8"
     react-native-device-info "^10.11.0"
 
-mayo-logger@^1.0.8:
+mayo-logger@^1.0.8, mayo-logger@^1.1.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/mayo-logger/-/mayo-logger-1.2.0.tgz#bb43867725ede6bfb608ea75791532601299a119"
   integrity sha512-ENdvl1ZYZ4InjZgB1CPnwZl9j7yz62nhQrvYfz9KaWZOqxoAdji9zmDx92eAvjxVZjCkk511HSfyRz+0M5r1og==
   dependencies:
     typescript "^5.3.2"
-
-mayo-logger@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.npmjs.org/mayo-logger/-/mayo-logger-1.1.0.tgz#ee1236a4aa791d3bece7dd1315c28458e6868884"
-  integrity sha512-Lfnjppm5kD+7uv0OWHwDOUYOB19p2pK0AqLXihZc2UH5lPi3O3xN+dFGnHUoFHfdWdUqsVgYvFoUJQ5OAOua1Q==
 
 memoize-one@^5.0.0:
   version "5.2.1"
@@ -7926,9 +7921,9 @@ typescript@^4.9.4:
   integrity sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g==
 
 typescript@^5.3.2:
-  version "5.3.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.3.2.tgz#00d1c7c1c46928c5845c1ee8d0cc2791031d4c43"
-  integrity sha512-6l+RyNy7oAHDfxC4FzSJcz9vnjTKxrLpDG5M2Vu4SHRVNg6xzqZp6LYSR9zjqQTu8DU/f5xwxUdADOkbrIX2gQ==
+  version "5.3.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.3.3.tgz#b3ce6ba258e72e6305ba66f5c9b452aaee3ffe37"
+  integrity sha512-pXWcraxM0uxAS+tN0AG/BF2TyqmHO014Z070UsJ+pFvYuRSq8KH8DmWpnbXe0pEPDHXZV3FcAbJkijJ5oNEnWw==
 
 uglify-es@^3.1.9:
   version "3.3.9"
