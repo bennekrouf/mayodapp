@@ -20,7 +20,7 @@
     "mayo-firestore-write": "^1.2.6",
     "mayo-logger": "^1.1.0",
     "react": "18.2.0",
-    "react-native": "0.71.4",
+    "react-native": "0.73.0",
     "react-native-get-random-values": "^1.8.0",
     "react-native-safe-area-context": "3.4.1",
     "react-native-url-polyfill": "^1.3.0",
