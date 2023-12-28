@@ -1,8 +1,8 @@
-import {useConnection} from '../components/providers/ConnectionProvider';
+import {useConnection} from './providers/ConnectionProvider';
 import React, {useState, useCallback} from 'react';
 import {Button} from 'react-native';
 import {Account} from './providers/AuthorizationProvider';
-import {alertAndLog} from '../util/alertAndLog';
+import {alertAndLog} from '../../util/alertAndLog';
 import {LAMPORTS_PER_SOL} from '@solana/web3.js';
 
 type Props = Readonly<{

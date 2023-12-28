@@ -1,18 +1,18 @@
 import React, {useCallback, useEffect, useState} from 'react';
 import {ScrollView, StyleSheet, Text, View} from 'react-native';
 
-import {Section} from '../components/Section';
-import ConnectButton from '../components/ConnectButton';
-import AccountInfo from '../components/AccountInfo';
+import {Section} from './Section';
+import ConnectButton from './ConnectButton';
+import AccountInfo from './AccountInfo';
 import {
   useAuthorization,
   Account,
-} from '../components/providers/AuthorizationProvider';
-import {useConnection} from '../components/providers/ConnectionProvider';
-import DisconnectButton from '../components/DisconnectButton';
-import RequestAirdropButton from '../components/RequestAirdropButton';
-import SignMessageButton from '../components/SignMessageButton';
-import SignTransactionButton from '../components/SignTransactionButton';
+} from './providers/AuthorizationProvider';
+import {useConnection} from './providers/ConnectionProvider';
+import DisconnectButton from './DisconnectButton';
+import RequestAirdropButton from './RequestAirdropButton';
+import SignMessageButton from './SignMessageButton';
+import SignTransactionButton from './SignTransactionButton';
 
 export default function MainScreen() {
   const {connection} = useConnection();

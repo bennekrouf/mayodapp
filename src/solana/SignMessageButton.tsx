@@ -7,7 +7,7 @@ import {
 } from '@solana-mobile/mobile-wallet-adapter-protocol-web3js';
 
 import {useAuthorization} from './providers/AuthorizationProvider';
-import {alertAndLog} from '../util/alertAndLog';
+import {alertAndLog} from '../../util/alertAndLog';
 
 export default function SignMessageButton() {
   const {authorizeSession} = useAuthorization();

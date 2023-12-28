@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "581865288762",
+    "project_id": "tafseel-7f242",
+    "storage_bucket": "tafseel-7f242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581865288762:android:fca352231f244f19253103",
+        "android_client_info": {
+          "package_name": "com.mayorana.abjad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581865288762-r3n18rl706geguqk0kual8v5r9e2bg6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mayorana.abjad",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "581865288762-pn1dvg84mtf77v2qjsm2r40k7p7gj4qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfvcfClkm9KKLG7f3pm5IdJi4skpGsXRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581865288762-a1ipiomvrcvhopme4fn0tk73g5c0ksj4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581865288762-2jj07ja8viv4p5rk7c4lqarp6adnni4i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mayorana.abjad"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581865288762:android:64bcc7d6f2e53e8f253103",
+        "android_client_info": {
+          "package_name": "com.mayorana.mayodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581865288762-cc0bmppgjd6es5fusqsd3u2litn25as4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mayorana.mayodapp",
+            "certificate_hash": "c2fe7c65376a5acad643efc743d305c5f34cbb11"
+          }
+        },
+        {
+          "client_id": "581865288762-pn1dvg84mtf77v2qjsm2r40k7p7gj4qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfvcfClkm9KKLG7f3pm5IdJi4skpGsXRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581865288762-a1ipiomvrcvhopme4fn0tk73g5c0ksj4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581865288762-2jj07ja8viv4p5rk7c4lqarp6adnni4i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mayorana.abjad"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581865288762:android:0cd91c03521dce16253103",
+        "android_client_info": {
+          "package_name": "com.mayorana.tafseel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581865288762-pn1dvg84mtf77v2qjsm2r40k7p7gj4qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfvcfClkm9KKLG7f3pm5IdJi4skpGsXRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581865288762-a1ipiomvrcvhopme4fn0tk73g5c0ksj4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581865288762-2jj07ja8viv4p5rk7c4lqarp6adnni4i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mayorana.abjad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
